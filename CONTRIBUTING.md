@@ -40,7 +40,7 @@ Il existe plusieurs façons de contribuer à NexSchool :
 
 Si vous trouvez un bug :
 
-1. Vérifiez d'abord qu'il n'existe pas déjà dans les [Issues](https://github.com/votre-org/nexschool/issues)
+1. Vérifiez d'abord qu'il n'existe pas déjà dans les [Issues](https://github.com/2MJ-DEV/NexSchool/issues)
 2. Créez une nouvelle issue avec le label `bug`
 3. Utilisez le template de bug report
 4. Incluez :

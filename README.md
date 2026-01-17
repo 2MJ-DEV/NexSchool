@@ -84,7 +84,7 @@ Le projet est actuellement en **phase de développement MVP** (v1.0.0).
 1. **Cloner le repository**
 
 ```bash
-git clone https://github.com/votre-org/nexschool.git
+git clone https://github.com/votre-usename/nexschool.git
 cd nexschool
 ```
 
@@ -236,7 +236,7 @@ Nous recherchons activement des contributeurs pour :
 - 🎨 Améliorer l'UI/UX
 - 🌍 Traduire l'application
 
-Consultez les issues avec le label [`good first issue`](https://github.com/votre-org/nexschool/labels/good%20first%20issue) pour débuter.
+Consultez les issues avec le label [`good first issue`](https://github.com/2MJ-DEV/NexSchool/issues?q=state%3Aopen%20label%3A%22good%20first%20issue%22) pour débuter.
 
 ---
 
@@ -293,8 +293,8 @@ Ce projet utilise les technologies et bibliothèques open-source suivantes :
 
 ## Support & Contact
 
-- 🐛 **Issues** : [GitHub Issues](https://github.com/votre-org/nexschool/issues)
-- 💬 **Discussions** : [GitHub Discussions](https://github.com/votre-org/nexschool/discussions)
+- 🐛 **Issues** : [GitHub Issues](https://github.com/2MJ-DEV/NexSchool/issues)
+- 💬 **Discussions** : [GitHub Discussions](https://github.com/2MJ-DEV/NexSchool/discussions)
 - 📧 **Email** : julesmukadi.dev@gmail.com
 
 ---
